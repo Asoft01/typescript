@@ -13,6 +13,11 @@ let level;
 // level = 1;
 // level = 'a';
 
-function render(document: any){
-    console.log(document);
-}
+// function render(document: any){
+//     console.log(document);
+// }
+
+// array 
+// let numbers: number[] = [1, 2, 3];
+let numbers = []; 
+ 
