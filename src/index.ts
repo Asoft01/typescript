@@ -19,5 +19,14 @@ let level;
 
 // array 
 // let numbers: number[] = [1, 2, 3];
-let numbers = []; 
- 
+// let numbers = [];
+
+///////////////////////////////////////////////////////////
+// let numbers: number[] = []; 
+// numbers.forEach(n => n.)
+
+// tuples
+// 1, 'Mosh'
+let user: [number, string, boolean, number] = [1, 'Mosh', true, 0];
+
+// enums
