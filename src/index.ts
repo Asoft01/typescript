@@ -35,3 +35,14 @@ let user: [number, string, boolean, number] = [1, 'Mosh', true, 0];
 
 // PascalCase
 // enum Size { Small = 1, Medium =2, Large=3 };
+// let mySize: Size = Size.Medium; 
+// console.log(mySize);
+
+const enum Size { Small = 1, Medium =2, Large=3 };
+let mySize: Size = Size.Medium; 
+console.log(mySize);
+
+// Function 
+function calculateTax(income: number): number {
+    return 0; 
+}
